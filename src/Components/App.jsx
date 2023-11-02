@@ -6,7 +6,23 @@ function App() {
 
   return (
     <>
-      <h1>hello world</h1>
+      <header>
+        <h1>GlobalTalk</h1>
+        <nav>
+          <ul>
+            <li>Home</li>
+            <li>Textbook</li>
+            <li>Statistics</li>
+            <li>Games</li>
+          </ul>
+        </nav>
+      </header>
+      <main>
+
+      </main>
+      <footer>
+
+      </footer>
     </>
   )
 }
