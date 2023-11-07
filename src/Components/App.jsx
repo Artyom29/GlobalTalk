@@ -1,4 +1,4 @@
-import '../style/App.scss'
+import '../style/App.scss '
 
 
 function App() {
@@ -16,6 +16,11 @@ function App() {
             <li>Games</li>
           </ul>
         </nav>
+        <div className='user'>
+          <img src="../assets/Frame 2.png" alt="img" />
+          <p>Alex</p>
+          <a href="#">Sign Out</a>
+        </div>
       </header>
       <main>
 
