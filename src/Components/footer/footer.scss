@@ -1,0 +1,53 @@
+.footer_container {
+  max-width: 1400px;
+  margin: auto;
+
+  .container {
+    max-width: 1400px;
+    margin: auto;
+  }
+
+  a {
+    text-decoration: none;
+    color: black;
+  }
+
+  footer {
+    margin-top: 80px;
+  }
+
+  .text1 a {
+    color: #757575;
+    font-family: 'Montserrat';
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 14px;
+    padding-right: 15px;
+  }
+
+  .top {
+    margin-bottom: 20px;
+  }
+
+  .text2 p {
+    display: inline-block;
+    color: #757575;
+    font-family: 'Montserrat';
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 14px;
+    padding-right: 15px;
+  }
+
+  .text3 p {
+    color: #757575;
+    font-family: 'Montserrat';
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 12px;
+  }
+
+  footer .img img {
+    padding-right: 15px;
+  }
+}
